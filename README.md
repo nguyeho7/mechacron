@@ -9,10 +9,10 @@ readable on the paper. The output can be empty. Mechacron will wrap around
 each Decepticall and print their output at given intervals.
 
 Currently planned Decepticalls are:
-    - a facebook page guestbook, where people can leave messages to be printed
-    - a google calendar with both daily and weekly summaries
-    - a bookdepository based telegram/facebook chatbot that parses links and 
+- a facebook page guestbook, where people can leave messages to be printed
+- a google calendar with both daily and weekly summaries
+- a bookdepository based telegram/facebook chatbot that parses links and 
 	estimates upcoming arrival dates 
-    - a homework deadline reminder based on CTU api (?)
-    - anime reminders based on MAL
-    - lightweight RSS (?)
+- a homework deadline reminder based on CTU api (?)
+- anime reminders based on MAL
+- lightweight RSS (?)
